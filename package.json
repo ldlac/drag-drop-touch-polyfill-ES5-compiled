@@ -1,0 +1,16 @@
+{
+  "name": "drag-drop-touch-polyfill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DragDropTouch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/heineiuo/drag-drop-touch-polyfill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/heineiuo/drag-drop-touch-polyfill#readme"
+}
