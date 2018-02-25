@@ -1,5 +1,5 @@
 {
-  "name": "drag-drop-touch-polyfill",
+  "name": "drag-drop-touch-polyfill-es5-compiled",
   "version": "1.0.0",
   "description": "",
   "main": "DragDropTouch.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/heineiuo/drag-drop-touch-polyfill.git"
+    "url": "git+https://github.com/ldlac/drag-drop-touch-polyfill-ES5-compiled.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/heineiuo/drag-drop-touch-polyfill#readme"
+  "homepage": "https://github.com/ldlac/drag-drop-touch-polyfill-ES5-compiled"
 }
